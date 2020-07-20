@@ -1,0 +1,8 @@
+{
+    "authKey": "NWYwZjE2MDc5NDFjNDg1YzE2YjEwNTY0OjUrdiRSRXN1NlQ5SDVBIUktYXZmeXFpMjdhdSghZH11S2ppSlBMRltuKmVaKV1kUmZxeVJCeU5mN2gha20tX2o=",
+     "rssFeedUrl": "https://www.smithsonianmag.com/rss/arts-culture/",
+      "newsChannelUrlForFeedPost": "https://backend.staffbase.com/api/channels/5f121f6e89ae3679ea12a8eb/posts", 
+      "usersListUrl": "https://backend.staffbase.com/api/users", 
+      "profilePicturesFolder": "./profilePictures",
+       "imageFormat": "png"
+    }
